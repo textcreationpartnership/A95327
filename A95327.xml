@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The truest, most happy, and joyfull newes that ever came from Ireland: being sent over in a letter, and read in the honourable House of Common, Februarie 29. 1641. Relating the renowned victory of the Protestant party, in repelling the rebels from Dublin, under the commands of the Earl of Ormond, Sir Charles Coot, and Sir Simon Harcourt. With the noble service of Captain Thomas Stenvile, near to the town of Trohedagh. As also, the apprehension of Mac Brian, Con Magenis at Care, Rory Magwire at the town of Clogham, and others who are principall conspirators, and actors in the rebellion. The three commanders afore-mentioned having (according to the late proclamation set forth by the Lord Justices of Dublin) six hundred pounds a man for the apprehension of those three rebels.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95327</idno>
+            <idno type="STC">Wing T3135</idno>
+            <idno type="STC">Thomason E136_7</idno>
+            <idno type="STC">ESTC R8756</idno>
+            <idno type="EEBO-CITATION">99873386</idno>
+            <idno type="PROQUEST">99873386</idno>
+            <idno type="VID">156466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156466)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E136[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The truest, most happy, and joyfull newes that ever came from Ireland: being sent over in a letter, and read in the honourable House of Common, Februarie 29. 1641. Relating the renowned victory of the Protestant party, in repelling the rebels from Dublin, under the commands of the Earl of Ormond, Sir Charles Coot, and Sir Simon Harcourt. With the noble service of Captain Thomas Stenvile, near to the town of Trohedagh. As also, the apprehension of Mac Brian, Con Magenis at Care, Rory Magwire at the town of Clogham, and others who are principall conspirators, and actors in the rebellion. The three commanders afore-mentioned having (according to the late proclamation set forth by the Lord Justices of Dublin) six hundred pounds a man for the apprehension of those three rebels.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Mar. 3. London. Printed for William Reynor,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>The comma following "Conspirators" appears to have been inverted.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coote, Charles, --  Sir, d. 1642 --  Early works to 1800.</term>
+               <term>Harcourt, Simon, --  Sir, 1603?-1642 --  Early works to 1800.</term>
+               <term>Maguire, Rory, 1618 or 19-1648 or 9 --  Early works to 1800.</term>
+               <term>Magennis, Con, --  Sir --  Early works to 1800.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Stenvile, Thomas --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156466:1"/>
+            <pb facs="tcp:156466:1" rendition="simple:additions"/>
+            <p>The Trueſt, moſt happy, and joyfull NEWES THAT EVER CAME FROM IRELAND: <hi>BEING</hi> SENT OVER IN A LETTER, and read in the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mon, <hi>Februarie</hi> 29. 1641.</p>
+            <p>Relating the renowned Victory of the Proteſtant Party, in Repelling the Rebels from <hi>Dublin,</hi> under the Commands of the Earl of <hi>Ormond,</hi> Sir <hi>Charles Coot,</hi> and Sir <hi>Simon Harcourt.</hi> With the Noble Service of Captain <hi>Thomas Stenvile,</hi> near to the Town of <hi>Trohedagh.</hi>
+            </p>
+            <p>As alſo, the Apprehenſion of <hi>MacBrian, Con Ma<g ref="char:EOLhyphen"/>genis</hi> at <hi>Care, Rory Magwire</hi> at the Town of <hi>Clogham,</hi> and others who are principall Conſpirators and Actors in the Rebellion.</p>
+            <p>The three Commanders afore-mentioned having (according to the late Proclamation ſet forth by the Lord Juſtices of <hi>Dublin</hi>) ſix hundred pounds a man for the Apprehenſion of thoſe three Rebels.</p>
+            <p>
+               <hi>Mar.</hi> 3. <hi>London.</hi> Printed for <hi>William Reynor.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156466:2"/>
+            <pb facs="tcp:156466:2"/>
+            <head>THE TRUEST, MOST Happie, and Jovfull Newes, that ever came from <hi>IRELAND.</hi>
+            </head>
+            <p>LOng have tyrannicall inſolencie of the Rebels in Ireland exalted over the liberties, lives, and Con<g ref="char:EOLhyphen"/>ſciences of the Proteſtants: and hath hitherto continued ſo cruell, bloudy, and inhumane, that it ſupifies almoſt amaze ment it ſelf: and withall, hath endan<g ref="char:EOLhyphen"/>gered the hazard of the Kingdome, But although they have triumphed thus in the continuation of their barbarous in<g ref="char:EOLhyphen"/>humanity. Yet the All-ſeeing eye of the Almighty, whoſe impartiall Juſtice will not permit nefarious deeds to ſleep in impunity, the omnipotency (I ſay) of the ſame eye hath frowned upon the Rebellious proceedings of thoſe ſavage
+<pb facs="tcp:156466:3"/>miſcreants, which cauſeth no onely a<g ref="char:EOLhyphen"/>lacrity in the hearts of all, but alſo to heaven, for ſo juſt an overthrow. Their repulſe was thus, as ſhall be ſubſequent<g ref="char:EOLhyphen"/>ly declared.</p>
+            <p>The Citie of <hi>Dublin</hi> was ſuppoſed to have bin in great perill, being dange<g ref="char:EOLhyphen"/>rouſly invironed, and begirt with the enemy both by Sea, and Land: Yea, more<g ref="char:EOLhyphen"/>over there were divers Letters ſent from Weſtcheſter, directed to the Houſe of Commons, and read; whoſe meaning did ſtrengthen the former ſuſpitiou: for they did intimate that Dublin was ſo circumvolved with the enemy, <hi>that it was almoſt thought to be deſtitute ef Re<g ref="char:EOLhyphen"/>lief:</hi> Then it was forthwith Ordered by the Houſe, that preſent Aid ſhould be immediately raiſed, and ſent thither with great expedition, for fear if they ſhould procraſtinate the buſineſſe, any danger might enſue,</p>
+            <p>Hereupon the Commiſſion to preſſe (both for Land and Sea-men) did iſſue
+<pb facs="tcp:156466:3"/>forthwith to His Majeſties Officers. But in the mean time the Proteſtants ga<g ref="char:EOLhyphen"/>thered a head together, and unanimouſ<g ref="char:EOLhyphen"/>ly conſulted to have a skirmiſh with the Rebels, and ſo to relieve the City of Dublin.</p>
+            <p>The Earl of Ormond, Sir <hi>Charles Coot, and Sir Simon Harcourt</hi> muſtred up their forces, and marched couragiouſly againſt them: whereupon at their firſt firſt Onſet, there was a hot fray on both ſides, till at length Captain <hi>Tho<g ref="char:EOLhyphen"/>mas Stanvile</hi> came with three hundred men afreſh, and then they ſlew many of the Rebels, and made them recant, ſome fled, others hid themſelves: but ſtill they followed them, ſlaying a great number, rooting them from one Town to another: and ſo they rook <hi>Mac Brian</hi> Priſoner, and driving them ſtill forward, they took <hi>Con Magenis at Care,</hi> and at the Town of Clogham they took <hi>Kory Magwire</hi> all Priſoners, and committed them to the Caſtle in Dub<g ref="char:EOLhyphen"/>lin.</p>
+            <pb facs="tcp:156466:4"/>
+            <p>And there was (according to the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Proclamation ſet forth by the Lord Ju<g ref="char:EOLhyphen"/>ſtices of Dublin g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven to all ingenerall both Engliſh and Iriſh) given to thoſe Commanders that apprehended thoſe three ſix hundred pounds a man. So that hereby Dublin is made free at this pre<g ref="char:EOLhyphen"/>ſent from any enemy, to the great com<g ref="char:EOLhyphen"/>fort and conſolation of thoſe worthy Members that are now Fathers of our Country.</p>
+            <p>We hope likewiſe, that by the auxili<g ref="char:EOLhyphen"/>ary aſſiſtance of Almighty God, that when our King and Parliament ſhall be graciouſly pleaſed to ſend more aid thither, that we ſhall ſubdue the barba<g ref="char:EOLhyphen"/>rous rage of thoſe Rebels with facility. In the mean time, we have juſt cauſe to pray for the propitious ſucceſſe of thoſe, who are there already arrived: that God would ſo animate them with valour and courage, that they may un<g ref="char:EOLhyphen"/>dantedly ſtand for the defence of his holy Goſpell, and propagation of his divine Name: That they be ſo ſtrong<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:156466:4"/>armed with the true faith of Chriſt, that withall they ſhould become more propenſe, and ready to oppoſe all thoſe enemies, that ſhall dare <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r preſume to derogate the leaſt title therefrom. God grant that all our battles may prove as fortunate, and ſucceſſive as this hath, and then we doubt not but we ſhall become tr ly victorious: That the Pro<g ref="char:EOLhyphen"/>teſtant Religion do not thus initiate, and be firſt aſcribed with the Chara<g ref="char:EOLhyphen"/>cters of blood: That the proſperous ſecuritie of the Britiſh Nation, be not overwhelmed with the turbulent bar<g ref="char:EOLhyphen"/>bariſm of thoſe Wolviſh Rebels. That the heart of our gracious Soveraign may be conſolated with more active alacritie: That the heaven-guided Par<g ref="char:EOLhyphen"/>liament may be likewiſe comforted and not to receive ſuch ſtrange obſtacles, and dangerous obſtructions to their quotidian proceedings: That laſtly, the honour of God may be advanced to the great ſecurity of the Realm.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
